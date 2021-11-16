@@ -3,11 +3,11 @@
 <em>A Aquarium Website</em><hr>
 
 <h2>Introduction:</h2>
-<p>This is a fully responsive website designed for a local aquarium shop and is to be hosted on a domain in coming days</p>
-<p>The website for testing purposes is uploaded on github pages and the link is: https://raxy45.github.io/Aquario/</p><hr style="height:1px">
+<p>This was a fully responsive website designed for a local aquarium shop</p>
+<p>Link for the project : https://raxy45.github.io/Aquario/</p><hr style="height:1px">
 
 <h2>Project Status:</h2>
-<p>The contents of the website are to yet to be received from the client and hence dummy text and images are in action currently</p><hr>
+<p>The contents of the website are changed due to copyright issues and hence dummy text and images are in action currently</p><hr>
 
 <h2>Technologies:</h2>
 <ul><li>HTML5</li><li>CSS3</li><li>Bootstrap v4.5</li><li>jQuery</li></ul><hr>
