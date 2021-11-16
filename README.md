@@ -38,7 +38,6 @@ last is the footer which remains common for all the pages</li>
 <li><h3><em>Products and Services:</em></h3>The services and general products will be enlisted here.</li>
 <li><h3><em>Terms and Conditions:</em></h3>The rules and regulations of shop delivery as well as the 
 copyright issues of the website will be mentioned here</li>
-<li><h3><em>Product Plus:</em></h3>This page is under construction !</li>
 </ul>
 <hr>
 
